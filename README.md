@@ -60,7 +60,7 @@ operation performs exactly one thing and returns).
 
 It follows the API of `Queue` exactly:
 
-```ruby
+```
 # Create a new simple-queue.
 Queue#initialize
 
